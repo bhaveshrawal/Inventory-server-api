@@ -186,16 +186,15 @@ file updated:
 
 ### Contribute
 
-- Issue Tracker: https://github.com/bliiir/ras_python_core/issues
-- Source Code: https://github.com/bliiir/ras_python_core
+
 
 
 ### Support
 
 
-If you are having issues, please let me know. My email address is: r@bit.io
+
 
 
 ### License
 
-The project is licensed under the BSD license.
+
